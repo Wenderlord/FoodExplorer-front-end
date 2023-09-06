@@ -52,15 +52,15 @@ $ npm run dev
 ### Acesso do administrador:
 
 mail: admin@gmail.com</br>
-password: 4321
+password: 1234
 
 ### Acesso do usuário:
 
 mail: user@gmail.com</br>
-password: 4321
+password: 123456
 
-## 🎨 Back-end
+##  Back-end
 
-Acesse o repositório por esse link[this link]()
+Acesse o repositório por esse[link](https://github.com/Wenderlord/Food-Explorer-API2)
 
-<p align="center">Developed with ❤️ by <a href="https://github.com/Wenderlord" target="_blank">Wenderson Silva</a></p>
+<p align="center">Developed with  by <a href="https://github.com/Wenderlord" target="_blank">Wenderson Silva</a></p>
