@@ -1,0 +1,23 @@
+:root {
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  font-size: 62.5%;
+
+
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+  
+  font-size: 30px !important; 
+  
+}
+.swiper-button-next, .swiper-button-prev {
+
+  color: var(--color-white) !important; 
+}
+
