@@ -32,6 +32,11 @@ export default function CreateNewProduct(){
     const navigate = useNavigate ()
     const params = useParams()
 
+    if (newTag == null) {
+
+        toast ("Adicione uma tag")
+        return
+    }
     
     function handleAddTag(){    
         setTags(prevState => [ newTag,...prevState])
