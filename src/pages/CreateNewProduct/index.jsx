@@ -34,7 +34,7 @@ export default function CreateNewProduct(){
 
     
     function handleAddTag(){    
-        if (newTag == null) {
+        if (!newTag) {
     
             toast ("Adicione uma tag")
             return
