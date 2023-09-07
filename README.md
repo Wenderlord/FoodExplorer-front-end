@@ -18,7 +18,14 @@ React Router Dom,
 knex
 
 
-**Back-end:** Axios, Express, JWT, pm2, bcryptjs, Jest, Multer, Node 
+**Back-end:** 
+Axios, 
+JWT,
+pm2, 
+bcryptjs, 
+Jest, 
+Multer, 
+Node 
 
 
 ### Iniciando a aplicação:
