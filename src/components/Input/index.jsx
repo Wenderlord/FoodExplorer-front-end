@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 
 import { Container, UploadButton } from "./styles";
 import {FiUpload} from "react-icons/fi"
@@ -15,9 +13,8 @@ export default function Input({title, TextArea = false, isUploadButton = false, 
 return(
     <>
     {
-      isUploadButton  // é um bota de uplodad ?
-      
-      ? // se for um bota de uplodad
+      isUploadButton
+      ?
 
 
       <Container {...rest}>

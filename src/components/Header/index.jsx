@@ -21,10 +21,7 @@ export default function Header({loading}){
     const {user, signOut} = useAuth()
     const [cartItem, setCartItems] = useState([])
     const authAdmin = user && user.isAdmin
-    //const [updated, setUpdated] = useState()
 
-  
-    //console.log(loading)
     const navigate = useNavigate()
     const [MenuMobileOn, setMenuMobileOn] = useState(false)
     document.getElementsByClassName

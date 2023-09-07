@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Container, AddToCard, Stepper, ProductFavIcon, Loading} from "./styles"
 import Button from "../button"
 import { FiPlus, FiMinus, FiHeart, FiEdit}from"react-icons/fi"

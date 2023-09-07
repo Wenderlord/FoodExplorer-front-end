@@ -13,7 +13,6 @@ import imagePlaceholder from "../../assets/image-3.png"
 import { ToastContainer } from "react-toastify";
 import LoadingScreen from "../../components/loadingComponents/loadingScreen";
 
-//import { useAuth } from "../../hooks/auth";
 export default function Home(){
 
 const [products, setProducts] = useState([])

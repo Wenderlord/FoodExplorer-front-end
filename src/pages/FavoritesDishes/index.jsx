@@ -13,7 +13,6 @@ const navigate = useNavigate ()
 const [products, setProducts] = useState([])
 const [hideAnimation, setHideAnimation] = useState()
 const [favoriteDishes, setFavoriteDishes] = useState([])
-//const [search, setSearch] = useState("")
 
 const fetchFavoriteDishes = async ()  => { 
     const {data} = await api.get(`/favoriteDishes`)
